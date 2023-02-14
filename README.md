@@ -1,1 +1,1 @@
-# truffle-BE
+To run this assignment, simply navigate to the folder into which you have cloned the truffle-BE code. Then, type in "node medBill.js", which will start a local server that can be accessed by navigating to localhost:3000 on a web browser. There, you can upload medical bills and view a list of uploaded medical bills by clicking on "Choose File" and "submit" or "Get Medical Bills", respectively. 
