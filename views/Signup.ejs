@@ -12,8 +12,12 @@
         enctype ="multipart/form-data" method="POST">
 
                 <span> Upload Medical Bill:</span>
-                <input type="file" name="medbill" required/> <br>
-                <input type="submit" value="submit">
+                <input type="file" name="medBill" required/> <br>
+                <input type="submit" value="Submit">
         </form>
+	<h2>Get Medical Bills </h2>
+	<form action = "/getMedicalBill"
+	enctype="multipart/form-data" method="GET">
+		<input type="submit" value="Get Medical Bills"> 
 </body>
 </html>
